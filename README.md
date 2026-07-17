@@ -28,7 +28,7 @@ elltools install ellteam.github.io/EllGames/TGR
 
 You can also play The Gaming Race in your browser:
 
-https://tgr.github.io
+https://TGR.github.io
 
 ## 🏆 About
 
